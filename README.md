@@ -37,6 +37,6 @@ BSc dissertation, awarded a distinction. Autonomous TurtleBot3 navigation combin
 
 [LinkedIn](https://www.linkedin.com/in/akshit-atmakuri/) | akshitatmakuri3@gmail.com
 
-Some of these projects were group coursework. Each repository states plainly which were collaborative and what I contributed.
+Some of these projects were team projects. Each repository states plainly which were collaborative and what I contributed.
 
 These repositories are also mirrored at [@AkshitAtmakuri](https://github.com/AkshitAtmakuri).
